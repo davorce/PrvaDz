@@ -3,6 +3,6 @@ import java.time.LocalDateTime;
 public class Main {
     public static void main(String[] args) {
         LocalDateTime dt = LocalDateTime.now();
-        System.out.println("Trenutno vrijem: " + dt);
+        System.out.println("Trenutno vrijeme: " + dt);
     }
 }
